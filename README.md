@@ -10,7 +10,7 @@ so it can be consumed by feed readers, Power Automate, Copilot Studio, n8n, etc.
 ## Feed URL
 
 ```
-https://YOUR-USERNAME.github.io/gst-circulars-feed/feed.xml
+https://aashishsch.github.io/gst-circulars-feed/feed.xml
 ```
 
 ## How it works
